@@ -1,0 +1,2 @@
+name = "Bekasyl"
+print(name)

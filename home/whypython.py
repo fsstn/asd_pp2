@@ -1,0 +1,1 @@
+print("Python is easy to learn and powerful.")
