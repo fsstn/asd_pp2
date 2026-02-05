@@ -1,2 +1,0 @@
-name = "Bekasyl"
-print(name)
